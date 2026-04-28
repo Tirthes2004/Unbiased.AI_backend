@@ -1,4 +1,4 @@
-# Express ML Upload Backend
+# Express ML Backend
 
 Production-ready Express.js backend for receiving a file from a frontend, temporarily storing it on the server, sending it to an external ML API, returning the ML result to the frontend, and deleting the temporary upload after processing.
 
